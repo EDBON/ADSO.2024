@@ -1,0 +1,6 @@
+Un método de clase es aquel que está vinculado 
+a la clase en lugar de a una instancia concreta de la clase. 
+Se definen utilizando el decorador @classmethod y siempre 
+reciben el parámetro cls (que hace referencia a la clase, 
+similar a como self hace referencia a la instancia en los 
+métodos normales).
